@@ -1,2 +1,2 @@
 # Ecocycle
-app para analisar o impacto ambiental
+Aplicativo de Verificação de impacto ambiental de alimentos
